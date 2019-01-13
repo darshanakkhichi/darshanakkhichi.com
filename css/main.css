@@ -1932,7 +1932,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .section-gap {
-  padding: 120px 0;
+  padding: 0px 0;
 }
 
 .section-title {
@@ -1958,13 +1958,13 @@ h1, h2, h3, h4, h5, h6 {
   /* background-image: -moz-linear-gradient(0deg, #8490ff 0%, #8490ff 100%);
   background-image: -webkit-linear-gradient(0deg, #8490ff 0%, #8490ff 100%);
   background-image: -ms-linear-gradient(0deg, #8490ff 0%, #8490ff 100%); */
-  background-image: -webkit-linear-gradient(0deg, #464a4e 0%, rgba(0, 0, 0, 0.15) 100%);
+  background-image: -webkit-linear-gradient(0deg, #000000 0%, rgba(0, 0, 0, 0.15) 100%);
 }
 
 .p1-gradient-color, .single-service a:hover, .footer-social a:hover i, .single-footer-widget .bb-btn {
-  background: -moz-linear-gradient(0deg, #8490ff 0%, #8490ff 100%);
-  background: -webkit-linear-gradient(0deg, #8490ff 0%, #8490ff 100%);
-  background: -ms-linear-gradient(0deg, #8490ff 0%, #8490ff 100%);
+  background: -moz-linear-gradient(0deg, #464a4e 0%, #464a4e 100%);
+  background: -webkit-linear-gradient(0deg, #464a4e 0%, #464a4e 100%);
+  background: -ms-linear-gradient(0deg, #464a4e 0%, #464a4e 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
